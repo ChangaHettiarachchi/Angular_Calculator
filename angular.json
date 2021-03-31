@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MyAppCalculator"
+    }
+  },
+  "defaultProject": "MyAppCalculator",
+  "cli": {
+    "analytics": false
+  }
 }
